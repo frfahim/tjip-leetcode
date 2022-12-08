@@ -9,9 +9,9 @@
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/)| [code](0001-two-sum.py)| Easy
 | 136 | [Single Number](https://leetcode.com/problems/single-number/)| [code](0136-single-number.py) | Easy
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | - | Easy
-| 283 | [Move Zeros](https://leetcode.com/problems/move-zeroes/) | - | Easy 
+| 283 | [Move Zeros](https://leetcode.com/problems/move-zeroes/) | [code](283-move-zeros.py) | Easy 
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | - | Easy
-| 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | - | Easy
+| 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [code](88-merge-sorted-array.py) | Easy
 | 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | - | Medium
 | 15 | [3Sum](https://leetcode.com/problems/3sum/) | - | Medium
 | 18 | [4Sum](https://leetcode.com/problems/4sum/) | - | Medium
