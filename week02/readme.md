@@ -13,4 +13,7 @@
 | 394 | [Decode String](https://leetcode.com/problems/decode-string/)| [code](394-decode-string.py) | Medium
 | 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/)| [code](49-group-anagrams.py) | Medium
 | 792 | [Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/)| [code](792-number-of-matching-subsequences.py) | Medium
+| 395 | [Longest Substring with At Least K Repeating Characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/)| [code](395-longest-substring-with-at-least-k-repeating-characters.py) | Medium
+| 179 | [Largest Number](https://leetcode.com/problems/largest-number/)| - | Medium
+| 76 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)| - | Hard
 
